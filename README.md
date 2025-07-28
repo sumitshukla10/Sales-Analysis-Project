@@ -1,7 +1,7 @@
 # 🛒BIGMART SALES ANALYSIS PROJECT
 
 ## Overview
-The **BigMart Sales Analysis Project** aims to uncover sales patterns and gain insights from historical data of various products across different outlets of BigMart. This project uses data analytics and visualization techniques to help the business understand customer preferences, product performance, and improve decision-making.
+The ```BigMart Sales Analysis Project``` aims to uncover sales patterns and gain insights from historical data of various products across different outlets of BigMart. This project uses data analytics and visualization techniques to help the business understand customer preferences, product performance, and improve decision-making.
 
 ## Objectives
 * Analyze sales data to identify key factors affecting product sales.
